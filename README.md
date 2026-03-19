@@ -36,6 +36,7 @@
 | **🎓 LMS 시스템** | 강의/수강/관리자 기능이 포함된 학습 시스템 | Spring Boot, MySQL | [Repo 바로가기](https://github.com/leewoojin12/404Error-EduLink) |
 | **📡 실시간 메신저** | Firebase 기반의 실시간 채팅 앱 | Firebase, WebSocket | [Repo 바로가기](https://github.com/leewoojin12/kakao_program) |
 | **📡 Pipely** | AI CICD 배포 매니저 오픈소스 공모전 진행중 | AI Agentica, Spring Boot | [Repo 바로가기](https://github.com/leewoojin12/pipely) |
+| **LG TWINS** | LG TWINS 프로젝트 | Spring Boot, mybatis,jsp,thymeleaf,SQL server | [사이트트 바로가기](https://www.lgtwins.com/) |
 
 ---
 

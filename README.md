@@ -56,7 +56,7 @@
 
 - 📬 Email: **zxsa999o@gmail.com**
 
-- 📘 Blog: [기술 블로그](https://blog.naver.com/zxsa9591) 
+- 📘 Blog: [기술 블로그](https://leewoojin12.tistory.com/) 
 <!-- - 🧾 Resume: [포트폴리오 PDF 다운로드](https://your-resume-link.com) -->
 ---
 

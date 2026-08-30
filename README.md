@@ -42,6 +42,14 @@
 | **LG TWINS** | LG TWINS 프로젝트 | Spring Boot, mybatis,jsp,thymeleaf,SQL server | [사이트 바로가기](https://www.lgtwins.com/) |
 
 ---
+## 📌  운영 사이트
+
+| 프로젝트명 | 운영중 |  링크 |
+|------------|------|----------|------|
+| ** 할인모아 ** | 운영중  | [사이트 이동 ](https://halinmoa.co.kr/ ) |
+| ** 호랑이 풍수 ** | 오픈 전  | [사이트 이동 ](https://tigersaju.com/) |
+ 
+---
 
 ## ✨ GitHub Stats
 

@@ -72,14 +72,7 @@
 | 🐯 **호랑이 풍수** | 🟡 오픈 예정 | [tigersaju.com](https://tigersaju.com/) |
 
 <br>
-
-## ✨ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leewoojin12&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leewoojin12&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
+ 
 <br>
 
 ## 📫 Contact
